@@ -8,7 +8,7 @@
 <form action="proceso.php" method="POST">
 	<h4>Nombre</h4>
 	<input type="text" name="nombre">
-	<h4>Password</h4>
+	<h4>Contraseña</h4>
 	<input type="password" name="password">
 	<h4>Correo</h4>
 	<input type="text" name="email">

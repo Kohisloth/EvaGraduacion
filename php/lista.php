@@ -10,7 +10,7 @@
 	<?php
 
 	include ("conexion.php");
-	$consulta="SELECT nombre, password, email  FROM usuario;";
+	$consulta="SELECT nombre, password, email  FROM usuarios;";
 	$resultado=$conexionBD->query($consulta);
 	//var_dump(resultado);
 	$usuario=array();

@@ -25,7 +25,7 @@ session_destroy();
 			display:none; 
 	}
 	.diseño {			
-		background-color: blue;
+		
 		}
 
 
